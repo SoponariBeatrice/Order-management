@@ -1,0 +1,13 @@
+package start;
+
+import model.Client;
+import model.Product;
+import presentation.Controller;
+
+public class Main {
+    public static void main(String[] args)
+    {
+       Controller c = new Controller();
+
+    }
+}
